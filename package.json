@@ -22,6 +22,7 @@
     "HELP"
   ],
   "dependencies": {
-    "argsparser": ">=0.0.3"
+    "argsparser": ">=0.0.3",
+    "jshint": "https://github.com/jfgorski/jshint/tarball/master"
   }
 }
